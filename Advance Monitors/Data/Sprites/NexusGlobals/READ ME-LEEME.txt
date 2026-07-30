@@ -1,0 +1,35 @@
+  __________________________________________________________________________________________________________ 
+ /																											\
+| Somarictor2010\El Somarictor\El SM or better known as:													 |
+|		    						o mejor conocido como:	   								                 |
+|	    																									 |
+|         SSSSSSSSSSSS     MMM          MMM      2222222222222      0000000000      11111111  0000000000     |
+|        S             S M    MM M     M   M    2             2    0          0   1        1 0          0    |
+|        S             S M       MMM MM     M  2              2    0          0 1          1 0          0    |
+|         S        SS    M         MM       M   22222222222   2    0   0000   0  111      1  0   0000	0    |
+|           S     SS     M                   M  22            2    0   0000   0    1      1  0   0000   0    |
+|     SSSSSS        S    M       M      M    M 2          2222222  0          0    1      1  0          0     \
+|    S            S      M       M      M    M 2                 2 0          0    1      1  0          0      ----------\
+|     SSSSSSSSSSSS       MMMMMMM MMMMMM MMMMM   22222222222222222   0000000000      1111111   0000000000                  \
+ \																										 (or just SM)      \	  /----\_
+  \																										 (o solo)/		   /     |_______|
+   \______________________________________________________________________________________________________________________/	  \\ | | | |
+																															    ° \___/  
+																																 \|  |\
+																															      \__/ -
+																															      |  |
+																															     -    -
+  _______________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+ / Sup, i want to do this real quick, you need to change the spritesheet file name that you want to use (for example Advance monitors with Advance icons) with "Items.gif"                                				 \
+|																																																		 				  |
+|- WARNING																																																 				  |
+| in case you want to use the advance monitors with advance icons, you REQUIRE to import the SNA pallete (Check "Palletes" Folder)																	     				  |
+|_________________________________________________________________________________________________________________________________________________________________________________________________________________________|
+| Buenas, quiero hacer esto rapido, nececitas cambiar el nombre del archivo con los sprites que quieres usar (Ejemplo Advance Monitors With Advance Icons) Con "Items.Gif"							     				  |
+|																																																		 				  |
+|- LISTADO DE SPRITES																																													 				  |
+| Como pues los titulos de los archivos estan en ingles y que flojera tener que expandirlos con titulos en español, pues añadi esta seccion, en fin Por ahora, solo hay 1 Opcion (ya que por defecto, el mod usa el otro):|
+| Advance Monitors With Advance Icons: Los monitores de advance con los iconos de advance (Si vas a usar este, REQUIERES SI O SI importar la paleta de SNA (Mira la carpeta "Palletes")							 		  |								     				  |
+ \_______________________________________________________________________________________________________________________________________________________________________________________________________________________/
+
+ 

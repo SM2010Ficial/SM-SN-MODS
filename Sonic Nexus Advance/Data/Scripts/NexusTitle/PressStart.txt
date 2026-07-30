@@ -1,0 +1,53 @@
+//----------Sonic Nexus "Press Start Script-----------//
+//----Scripted by Christian Whitehead "The Taxman"----//
+
+sub ObjectMain
+	
+	switch Object.State
+	case 0
+		if KeyPress.Start==true
+			Object.State=1
+			PlayStageSfx(1,false)
+		end if
+		break
+	case 1
+		Music.Volume-=2
+		Object.Value1+=4
+		if Object.Value1==384
+			PLives=3
+			PScore=0
+			StopMusic()
+			Stage.ActiveList=REGULAR_STAGE
+			Stage.ListPos=0
+			LoadStage()
+		end if
+		SetFade(0,0,0,Object.Value1,0,255)
+		break
+	end switch
+
+end sub
+
+sub ObjectDraw
+
+	Object.Value0++
+	if Object.Value0>29
+		Object.Value0=0
+	end if
+
+	if Object.Value0>14
+		DrawSprite(0)
+		DrawSprite(1)
+	end if
+
+end sub
+
+sub ObjectStartup
+	LoadSpriteSheet("NexusTitle/Menu.gif")
+	SpriteFrame(6,-6,41,13,1,1) //PRESS
+	SpriteFrame(57,-6,41,13,1,15) //START
+end sub
+
+sub RSDK
+	LoadSpriteSheet("NexusTitle/Menu.gif")
+	SetEditorIcon(Icon1,0,-46,-6,41,13,1,1)
+end sub

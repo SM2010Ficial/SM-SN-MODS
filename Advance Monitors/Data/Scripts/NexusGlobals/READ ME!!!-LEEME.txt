@@ -1,0 +1,31 @@
+  __________________________________________________________________________________________________________ 
+ /																											\
+| Somarictor2010\El Somarictor\El SM or better known as:													 |
+|		    						o mejor conocido como:	   								                 |
+|	    																									 |
+|         SSSSSSSSSSSS     MMM          MMM      2222222222222      0000000000      11111111  0000000000     |
+|        S             S M    MM M     M   M    2             2    0          0   1        1 0          0    |
+|        S             S M       MMM MM     M  2              2    0          0 1          1 0          0    |
+|         S        SS    M         MM       M   22222222222   2    0   0000   0  111      1  0   0000	0    |
+|           S     SS     M                   M  22            2    0   0000   0    1      1  0   0000   0    |
+|     SSSSSS        S    M       M      M    M 2          2222222  0          0    1      1  0          0     \
+|    S            S      M       M      M    M 2                 2 0          0    1      1  0          0      ----------\
+|     SSSSSSSSSSSS       MMMMMMM MMMMMM MMMMM   22222222222222222   0000000000      1111111   0000000000                  \
+ \																										 (or just SM)      \	  /----\_
+  \																										 (o solo)/		   /     |_______|
+   \______________________________________________________________________________________________________________________/	  \\ | | | |
+																															    ° \___/  
+																																 \|  |\
+																															      \__/ -
+																															      |  |
+																															     -    -
+  ______________________________________________________________________________________________________________________________________________________________________________________________________________________
+ / Sup, i want to do this real quick, you need to look for the file with the same name as the spritesheet you want to use (Check the Sprites/NexusGlobals Folder) then change the file name with BrokenMonitor.txt  	\
+| (for example if i want to use the Advance monitors with Advance icons, then i change the name of the txt file with that name to BrokenMonitor.txt																   		 |
+|________________________________________________________________________________________________________________________________________________________________________________________________________________________|
+| Buenas, quiero hacer esto rapido, nececitas buscar el archivo con el mismo nombre del spritesheet que quieres usar (Mira la carpeta Sprites/NexusGlobals) luego cambia el nombre de dicho archivo con BrokenMonitor.txt|
+|																																			    /\																		 |
+| (Por ejemplo, si quisiera usar los monitores de advance con los iconos de sonic advance (cabe la redundancia),busco el archivo con ese nombre || y le cambio el nombre a BrokenMonitor.txt)							 |																												 		   		 |
+ \______________________________________________________________________________________________________________________________________________________________________________________________________________________/
+
+ 
